@@ -117,25 +117,7 @@ Backend will run at:
 http://localhost:8080
 ```
 
----
 
-## 🗄️ Database Configuration
-
-Create a MySQL database:
-
-```sql
-CREATE DATABASE hotel_vista;
-```
-
-Import the provided SQL file:
-
-```bash
-hotel_vista.sql
-```
-
-Update database credentials in your Java configuration files.
-
----
 
 ## 📸 Screenshots
 
